@@ -1,9 +1,9 @@
 # Om brukermanualen
 ## Brukermanual for PPS IFK
 
-Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av PPS som er instalert i IFK tenant og som brukes til vegprosjekter.
+Brukermanualen vil til enhver tid gjenspeile siste gjeldende versjon av PPS som brukes til vegprosjekter
 
-PPS er en tilpasset versjon av Prosjektportalen, utvidet med veimodulen og tilpasset til bruk i Innlandet fylkeskommune.</a>
+PPS er en tilpasset versjon av Prosjektportalen som er utvidet med veimodulen.</a>
 
 ## Hva er Prosjektportalen for Office 365?
 
